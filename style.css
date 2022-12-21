@@ -13,7 +13,7 @@ body{
 		
 	 }
   
-     div.z{
+div.z{
 	   margin:auto ;
 	   margin-top:90px;
 	   width:900px;
@@ -30,9 +30,8 @@ body{
 	  
 	 }
 	 
-	 div.l{
+div.l{
 	  width:880px;
-	  height:280px;
 	  padding-top:120px;
 	 
 	  background-image:url("img/f9.jpg");
@@ -46,7 +45,7 @@ body{
 	 
 	 
 	 
-	 #h11{
+#h11{
 	  
 	  text-align:center;
 	
@@ -56,27 +55,27 @@ body{
 	 
 	 }
 	 
-	 hr{
+hr{
         
 	   width:90px;
 	 
-	 }
+}
 	 
-	 #tablee{ 
+#tablee{ 
 	      
 	      padding-left:206px;
 	      
 	       
 	 
 	 }
-	 #tablee1{ 
+#tablee1{ 
 	      
 	      padding-left:340px;
 	      
 	       
 	 
 	 }
-	  p{
+p{
 	   width:300px ;
 	   height:200px;
 	   padding-top:0px;
@@ -88,7 +87,7 @@ body{
 
 	 
 	 
-	 ul{
+ul{
 	   
 	    list-style-type:none;
 		width: 96%;
@@ -96,17 +95,17 @@ body{
 		
 		
 	 }
-	 li:first-child{
+li:first-child{
 		float:left;
 	 }
 	 
-	 li:not(li:first-child){
+li:not(li:first-child){
 	   float: right;
 	   margin-left: 10px;
 	   
 	 
 	 }
-	 li a{
+li a{
 	   text-decoration:none;
 	   color:black;
 	   font-weight:bold;
@@ -115,7 +114,7 @@ body{
 	 
 	 }
 	 
-	 li:first-child{
+li:first-child{
 	    
 	    font-family:tahoma;
 		
@@ -123,36 +122,34 @@ body{
 		font-variant:small-caps;
 		font-size:25px;
 		
-	 }
+}
 
-	 li:not(li:first-child){
+li:not(li:first-child){
 		margin-top: 6px;
 		
-	 }
+}
 	 
 	 
 	 
-	 #z{
+#z{
 	    padding:10px;
 		
 	    
 	 }
-	 #z:hover{
+#z:hover{
 	 background-color:pink;
 	 
-	 
-	 }
-	 
-	 h1{
+}
+h1{
 	   font-family:andalus;
 	   padding-top:20px;
 	   margin-left: 20px;
 	   color:black;
 	  text-shadow:3px 3px 3px pink;
 	 
-	 }
+}
 	 
-	 h3{
+h3{
 	   font-family:andalus;
 	   font-weight:bolder;
 	   
@@ -162,9 +159,9 @@ body{
 	    display:inline;
 	 text-shadow:3px 3px 3px pink;
 	 
-	 }
+}
 	 
-	 #img2{
+#img2{
 	   width:170px;
 	   height:200px;
 	   
@@ -172,46 +169,37 @@ body{
 	   margin-left:70px;
 	   margin-bottom:20px;
        
-	 }
-	 #dress , #s1{
+}
+#dress , #s1{
 	   text-align:center;
 	 
 	 
-	 }
-	 label{
+}
+label{
 	 
 	 text-align:justify;
+}
 	 
-	 
-	 
-	 }
-	 
-	 #z4 {
+#z4 {
 	  padding-left:340px;
-	 
-	 
-	 
-	 
-	 }
-	 .i{
+}
+.i{
 	 width:200;
 	 height:200;
 	 
 	 text-align:center;
 	 display:block;
 	 padding-left:179px;
-	 }
+}
 	 
-	 #h12{
+#h12{
 	 font-weight:bolder;
 	 display:inline;
 	  color:black;
 	  text-shadow:3px 3px 3px pink;
-	  
-	 }
+}
 	 
-	 
-	 input,button{
+input,button{
 	    width:120px;
 		height:40px;
 	    font-family:andalus ;
@@ -221,15 +209,14 @@ body{
 		 box-shadow:3px 3px 3px pink;
          margin-top: 26px;
 		 cursor: pointer;
-	 }
+}
 
-	 button{
+button{
 		margin-top: 0;
 		margin-left: -170px;
-	 }
+}
 	 
-	 
-	 div.footerr{
+div.footerr{
 	       
 	       width:100% ;
 	       margin-top: 1292px;
@@ -239,22 +226,15 @@ body{
 		   display: flex;
 		   justify-content: center;
 		   align-items: center;
-		  
-		  
-	 
-	 }
+}
 	 
 	 
 	 
-	 
-	 #img3{
+#img3{
 	   width:40px;
 	   height:40px;
-	 
-	 
-	 
-	 }
-	 .th1{
+}
+.th1{
 	   font-size:25px;
 	   font-family:arial;
 	   padding-top:10px;
@@ -268,7 +248,7 @@ body{
 	 
 	 
      
-	 .td1{
+.td1{
 			
 			    padding-left:10px;
 				
@@ -278,6 +258,15 @@ body{
 				
 				
                 
-			}	
+}	
+
+#Products{
+	margin-top: 38px;
+}
+
+@media(min-width:300px) and (max-width:480px) {
+
+	
+}
 	 
 	
